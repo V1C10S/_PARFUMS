@@ -1,0 +1,503 @@
+[
+
+{
+    "id": "creed-green-irish-tweed",
+    "slug": "creed-green-irish-tweed",
+    "name": "Green Irish Tweed",
+    "brand": "creed",
+    "season": "spring",
+
+    "price": 2599.99,
+    "currency": "BRL",
+    "main_image": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.474.2x.avif",
+    "images": [],
+    "volume": "100ml",
+    "family": "green-aromatic",
+
+    "rating": 4.9,
+    
+    "performance": {
+      "projection": 4,
+      "longevity": 4,
+      "day_use": 5,
+      "night_use": 3
+    },
+    
+    "description": "",
+
+    "accords": [
+    "green",
+    "fresh",
+    "aromatic",
+    "woody"
+    ],
+
+    "notes": {
+      "top": ["lemon verbena", "peppermint"],
+      "middle": ["violet leaf"],
+      "base": ["sandalwood", "ambergris"]
+    },
+
+    "in_stock": true,
+    "featured": true
+  },
+
+{
+    "id": "amouage-reflection-man",
+    "slug": "amouage-reflection-man",
+    "name": "Reflection Man",
+    "brand": "amouage",
+    "season": "spring",
+
+    "price": 2499.99,
+    "currency": "BRL",
+    "main_image": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.920.2x.avif",
+    "images": [],
+    "volume": "100ml",
+    "family": "floral-woody",
+
+    "rating": 4.8,
+    
+    "performance": {
+      "projection": 4,
+      "longevity": 4,
+      "day_use": 5,
+      "night_use": 3
+    },
+    
+    "description": "",
+
+    "accords": [
+    "floral",
+    "fresh",
+    "woody",
+    "powdery"
+    ],
+
+    "notes": {
+      "top": ["rosemary", "pink pepper", "petitgrain"],
+      "middle": ["jasmine", "neroli", "orris root"],
+      "base": ["sandalwood", "cedar", "vetiver"]
+    },
+
+    "in_stock": true,
+    "featured": false
+  },
+
+{
+    "id": "gentle-fluidity-silver",
+    "slug": "gentle-fluidity-silver",
+    "name": "Gentle Fluidity",
+    "brand": "maison francis kurkdjian",
+    "season": "spring",
+
+    "price": 2499.99,
+    "currency": "BRL",
+    "main_image": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.53400.2x.avif",
+    "images": [],
+    "volume": "100ml",
+    "family": "fresh-aromatic",
+
+    "rating": 4.7,
+    
+    "performance": {
+      "projection": 3,
+      "longevity": 4,
+      "day_use": 5,
+      "night_use": 3
+    },
+    
+    "description": "",
+
+    "accords": [
+    "fresh",
+    "aromatic",
+    "woody",
+    "musky"
+    ],
+
+    "notes": {
+      "top": ["juniper berries"],
+      "middle": ["nutmeg", "coriander"],
+      "base": ["musk", "amberwood"]
+    },
+
+    "in_stock": true,
+    "featured": false
+  },
+
+{
+    "id": "chanel-platinum-egoiste",
+    "slug": "chanel-platinum-egoiste",
+    "name": "Platinum Égoïste",
+    "brand": "chanel",
+    "season": "spring",
+
+    "price": 1399.99,
+    "currency": "BRL",
+    "main_image": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.614.2x.avif",
+    "images": [],
+    "volume": "100ml",
+    "family": "aromatic-fougere",
+
+    "rating": 4.7,
+    
+    "performance": {
+      "projection": 4,
+      "longevity": 4,
+      "day_use": 5,
+      "night_use": 3
+    },
+    
+    "description": "",
+
+    "accords": [
+    "aromatic",
+    "fresh",
+    "green",
+    "woody"
+    ],
+
+    "notes": {
+      "top": ["lavender", "rosemary", "neroli"],
+      "middle": ["geranium", "clary sage", "galbanum"],
+      "base": ["vetiver", "cedar", "oakmoss"]
+    },
+
+    "in_stock": true,
+    "featured": false
+  },
+
+{
+    "id": "dior-homme-2020",
+    "slug": "dior-homme-2020",
+    "name": "Homme",
+    "brand": "dior",
+    "season": "spring",
+
+    "price": 999.99,
+    "currency": "BRL",
+    "main_image": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.58714.2x.avif",
+    "images": [],
+    "volume": "100ml",
+    "family": "woody-aromatic",
+
+    "rating": 4.6,
+    
+    "performance": {
+      "projection": 3,
+      "longevity": 4,
+      "day_use": 5,
+      "night_use": 3
+    },
+    
+    "description": "",
+
+    "accords": [
+    "woody",
+    "fresh",
+    "aromatic"
+    ],
+
+    "notes": {
+      "top": ["bergamot", "pink pepper"],
+      "middle": ["atlas cedar", "cashmere wood"],
+      "base": ["vetiver", "iso e super"]
+    },
+
+    "in_stock": true,
+    "featured": false
+  },
+
+{
+    "id": "hermes-h24",
+    "slug": "hermes-h24",
+    "name": "H24",
+    "brand": "hermes",
+    "season": "spring",
+
+    "price": 999.99,
+    "currency": "BRL",
+    "main_image": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.65147.2x.avif",
+    "images": [],
+    "volume": "100ml",
+    "family": "green-aromatic",
+
+    "rating": 4.5,
+    
+    "performance": {
+      "projection": 3,
+      "longevity": 3,
+      "day_use": 5,
+      "night_use": 2
+    },
+    
+    "description": "",
+
+    "accords": [
+    "green",
+    "fresh",
+    "aromatic",
+    "metallic"
+    ],
+
+    "notes": {
+      "top": ["clary sage"],
+      "middle": ["narcissus"],
+      "base": ["rosewood", "sclarene"]
+    },
+
+    "in_stock": true,
+    "featured": false
+  },
+
+{
+    "id": "roja-elysium-cologne",
+    "slug": "roja-elysium-cologne",
+    "name": "Elysium Cologne",
+    "brand": "roja parfums",
+    "season": "spring",
+
+    "price": 2899.99,
+    "currency": "BRL",
+    "main_image": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.46296.2x.avif",
+    "images": [],
+    "volume": "100ml",
+    "family": "citrus-aromatic",
+
+    "rating": 4.8,
+    
+    "performance": {
+      "projection": 4,
+      "longevity": 4,
+      "day_use": 5,
+      "night_use": 3
+    },
+    
+    "description": "",
+
+    "accords": [
+    "citrus",
+    "fresh",
+    "aromatic",
+    "woody"
+    ],
+
+    "notes": {
+      "top": ["grapefruit", "lemon", "bergamot"],
+      "middle": ["apple", "blackcurrant", "juniper"],
+      "base": ["vetiver", "cedar", "ambergris"]
+    },
+
+    "in_stock": true,
+    "featured": false
+  },
+
+{
+    "id": "parfums-de-marly-sedley",
+    "slug": "parfums-de-marly-sedley",
+    "name": "Sedley",
+    "brand": "parfums de marly",
+    "season": "spring",
+
+    "price": 2299.99,
+    "currency": "BRL",
+    "main_image": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.56273.2x.avif",
+    "images": [],
+    "volume": "125ml",
+    "family": "fresh-aromatic",
+
+    "rating": 4.7,
+    
+    "performance": {
+      "projection": 4,
+      "longevity": 4,
+      "day_use": 5,
+      "night_use": 3
+    },
+    
+    "description": "",
+
+    "accords": [
+    "fresh",
+    "citrus",
+    "aromatic",
+    "woody"
+    ],
+
+    "notes": {
+      "top": ["bergamot", "mint", "lemon"],
+      "middle": ["lavender", "rosemary", "geranium"],
+      "base": ["ambroxan", "sandalwood"]
+    },
+
+    "in_stock": true,
+    "featured": false
+  },
+
+{
+    "id": "diptyque-philosykos",
+    "slug": "diptyque-philosykos",
+    "name": "Philosykos",
+    "brand": "diptyque",
+    "season": "spring",
+
+    "price": 1799.99,
+    "currency": "BRL",
+    "main_image": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.3865.2x.avif",
+    "images": [],
+    "volume": "100ml",
+    "family": "green-woody",
+
+    "rating": 4.7,
+    
+    "performance": {
+      "projection": 3,
+      "longevity": 3,
+      "day_use": 5,
+      "night_use": 2
+    },
+    
+    "description": "",
+
+    "accords": [
+    "green",
+    "woody",
+    "fresh"
+    ],
+
+    "notes": {
+      "top": ["fig leaf"],
+      "middle": ["fig", "coconut"],
+      "base": ["cedar", "woody notes"]
+    },
+
+    "in_stock": true,
+    "featured": false
+  },
+
+{
+    "id": "acqua-di-parma-colonia",
+    "slug": "acqua-di-parma-colonia",
+    "name": "Colonia",
+    "brand": "acqua di parma",
+    "season": "spring",
+
+    "price": 1699.99,
+    "currency": "BRL",
+    "main_image": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.1681.avif",
+    "images": [],
+    "volume": "100ml",
+    "family": "citrus-aromatic",
+
+    "rating": 4.6,
+    
+    "performance": {
+      "projection": 3,
+      "longevity": 3,
+      "day_use": 5,
+      "night_use": 3
+    },
+    
+    "description": "",
+
+    "accords": [
+    "citrus",
+    "fresh",
+    "aromatic"
+    ],
+
+    "notes": {
+      "top": ["lemon", "bergamot", "orange"],
+      "middle": ["lavender", "rosemary"],
+      "base": ["vetiver", "sandalwood"]
+    },
+
+    "in_stock": true,
+    "featured": false
+  },
+
+{
+    "id": "tom-ford-beau-de-jour",
+    "slug": "tom-ford-beau-de-jour",
+    "name": "Beau de Jour",
+    "brand": "tom ford",
+    "season": "spring",
+
+    "price": 1999.99,
+    "currency": "BRL",
+    "main_image": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.52790.avif",
+    "images": [],
+    "volume": "100ml",
+    "family": "aromatic-fougere",
+
+    "rating": 4.7,
+    
+    "performance": {
+      "projection": 4,
+      "longevity": 4,
+      "day_use": 5,
+      "night_use": 3
+    },
+    
+    "description": "",
+
+    "accords": [
+    "aromatic",
+    "fresh",
+    "green",
+    "woody"
+    ],
+
+    "notes": {
+      "top": ["lavender"],
+      "middle": ["rosemary", "mint"],
+      "base": ["oakmoss", "patchouli"]
+    },
+
+    "in_stock": true,
+    "featured": false
+  },
+
+{
+    "id": "nishane-wulong-cha",
+    "slug": "nishane-wulong-cha",
+    "name": "Wulong Cha",
+    "brand": "nishane",
+    "season": "spring",
+
+    "price": 2199.99,
+    "currency": "BRL",
+    "main_image": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.30567.avif",
+    "images": [],
+    "volume": "100ml",
+    "family": "citrus-green",
+
+    "rating": 4.8,
+    
+    "performance": {
+      "projection": 4,
+      "longevity": 4,
+      "day_use": 5,
+      "night_use": 3
+    },
+    
+    "description": "",
+
+    "accords": [
+    "citrus",
+    "green",
+    "fresh",
+    "tea"
+    ],
+
+    "notes": {
+      "top": ["bergamot", "orange", "litsea cubeba"],
+      "middle": ["oolong tea"],
+      "base": ["musk", "fig"]
+    },
+
+    "in_stock": true,
+    "featured": false
+  }
+]

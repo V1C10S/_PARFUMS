@@ -1,0 +1,505 @@
+[
+  
+{
+    "id": "bleu-de-chanel-eau-de-parfum",
+    "slug": "bleu-de-chanel-eau-de-parfum",
+    "name": "Bleu de Chanel Eau de Parfum",
+    "brand": "chanel",
+    "season": "summer",
+
+    "price": 1399.99,
+    "currency": "BRL",
+    "main_image": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.25967.avif",
+    "images": [],
+    "volume": "100ml",
+    "family": "woody-aromatic",
+
+    "rating": 4.8,
+    
+    "performance": {
+      "projection": 4,
+      "longevity": 4,
+      "day_use": 5,
+      "night_use": 5
+    },
+    
+    "description": "",
+
+    "accords": [
+    "citrus",
+    "woody",
+    "aromatic",
+    "amber"
+    ],
+
+    "notes": {
+      "top": ["lemon", "mint", "mandarin"],
+      "middle": ["ginger", "jasmine", "nutmeg"],
+      "base": ["cedar", "sandalwood", "amber"]
+    },
+
+    "in_stock": true,
+    "featured": true
+  },
+
+
+{
+    "id": "versace-pour-homme",
+    "slug": "versace-pour-homme",
+    "name": "Pour Homme",
+    "brand": "versace",
+    "season": "summer",
+
+    "price": 899.99,
+    "currency": "BRL",
+    "main_image": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.2318.avif",
+    "images": [],
+    "volume": "100ml",
+    "family": "citrus-aromatic",
+
+    "rating": 4.5,
+    
+    "performance": {
+      "projection": 3,
+      "longevity": 4,
+      "day_use": 5,
+      "night_use": 2
+    },
+    
+    "description": "",
+
+    "accords": [
+    "citrus",
+    "aromatic",
+    "fresh",
+    "woody"
+    ],
+
+    "notes": {
+      "top": ["lemon", "bergamot", "rose"],
+      "middle": ["jasmine", "geranium", "cedar"],
+      "base": ["amber", "tonka bean", "musk"]
+    },
+
+    "in_stock": true,
+    "featured": false
+  },
+
+{
+    "id": "polo-blue-ralph-lauren",
+    "slug": "polo-blue-ralph-lauren",
+    "name": "Polo Blue",
+    "brand": "ralph lauren",
+    "season": "summer",
+
+    "price": 649.99,
+    "currency": "BRL",
+    "main_image": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.1198.avif",
+    "images": [],
+    "volume": "100ml",
+    "family": "fresh-aromatic",
+
+    "rating": 4.4,
+    
+    "performance": {
+      "projection": 3,
+      "longevity": 3,
+      "day_use": 5,
+      "night_use": 3
+    },
+    
+    "description": "",
+
+    "accords": [
+    "fresh",
+    "citrus",
+    "aromatic",
+    "aquatic"
+    ],
+
+    "notes": {
+      "top": ["melon", "cucumber", "mandarin"],
+      "middle": ["basil", "sage", "geranium"],
+      "base": ["suede", "musk", "woody notes"]
+    },
+
+    "in_stock": true,
+    "featured": false
+  },
+
+{
+  "id": "louis-vuitton-afternoon-swim",
+  "slug": "louis-vuitton-afternoon-swim",
+  "name": "Afternoon Swim",
+  "brand": "louis vuitton",
+  "season": "summer",
+
+  "price": 2599.99,
+  "currency": "BRL",
+  "main_image": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.53947.avif",
+  "images": [],
+  "volume": "100ml",
+  "family": "citrus-fresh",
+
+  "rating": 4.7,
+
+  "performance": {
+    "projection": 3,
+    "longevity": 3,
+    "day_use": 5,
+    "night_use": 1
+  },
+
+  "description": "",
+
+  "accords": [
+    "citrus",
+    "fresh",
+    "aquatic"
+  ],
+
+  "notes": {
+    "top": ["orange", "bergamot"],
+    "middle": ["mandarin"],
+    "base": []
+  },
+
+  "in_stock": true,
+  "featured": false
+},
+
+{
+    "id": "acqua-di-gio",
+    "slug": "acqua-di-gio",
+    "name": "Acqua di Gio",
+    "brand": "armani",
+    "season": "summer",
+
+    "price": 799.99,
+    "currency": "BRL",
+    "main_image": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.410.avif",
+    "images": [],
+    "volume": "100ml",
+    "family": "citrus-aquatic",
+
+    "rating": 4.7,
+    
+    "performance": {
+      "projection": 3,
+      "longevity": 3,
+      "day_use": 5,
+      "night_use": 3
+    },
+    
+    "description": "",
+
+    "accords": [
+    "citrus",
+    "aquatic",
+    "fresh",
+    "aromatic"
+    ],
+
+    "notes": {
+      "top": ["lime", "lemon", "bergamot"],
+      "middle": ["jasmine", "marine notes", "coriander"],
+      "base": ["cedar", "musk", "patchouli"]
+    },
+
+    "in_stock": true,
+    "featured": false
+  },
+
+{
+    "id": "dior-homme-cologne",
+    "slug": "dior-homme-cologne",
+    "name": "Dior Homme Cologne",
+    "brand": "dior",
+    "season": "summer",
+
+    "price": 999.99,
+    "currency": "BRL",
+    "main_image": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.72062.avif",
+    "images": [],
+    "volume": "100ml",
+    "family": "citrus-fresh",
+
+    "rating": 4.6,
+    
+    "performance": {
+      "projection": 2,
+      "longevity": 3,
+      "day_use": 5,
+      "night_use": 2
+    },
+    
+    "description": "",
+
+    "accords": [
+    "citrus",
+    "fresh",
+    "musky"
+    ],
+
+    "notes": {
+      "top": ["calabrian bergamot"],
+      "middle": ["grapefruit blossom"],
+      "base": ["white musk"]
+    },
+
+    "in_stock": true,
+    "featured": false
+  },
+
+{
+    "id": "dolce-gabbana-light-blue",
+    "slug": "dolce-gabbana-light-blue",
+    "name": "Light Blue",
+    "brand": "dolce & gabbana",
+    "season": "summer",
+
+    "price": 749.99,
+    "currency": "BRL",
+    "main_image": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.485.avif",
+    "images": [],
+    "volume": "100ml",
+    "family": "citrus-fresh",
+
+    "rating": 4.5,
+    
+    "performance": {
+      "projection": 3,
+      "longevity": 3,
+      "day_use": 5,
+      "night_use": 2
+    },
+    
+    "description": "",
+
+    "accords": [
+    "citrus",
+    "fresh",
+    "aromatic",
+    "woody"
+    ],
+
+    "notes": {
+      "top": ["sicilian lemon", "grapefruit", "bergamot"],
+      "middle": ["rosemary", "pepper", "rosewood"],
+      "base": ["musk", "oakmoss", "incense"]
+    },
+
+    "in_stock": true,
+    "featured": false
+  },
+
+{
+    "id": "montblanc-legend-spirit",
+    "slug": "montblanc-legend-spirit",
+    "name": "Legend Spirit",
+    "brand": "montblanc",
+    "season": "summer",
+
+    "price": 549.99,
+    "currency": "BRL",
+    "main_image": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.33443.avif",
+    "images": [],
+    "volume": "100ml",
+    "family": "fresh-aromatic",
+
+    "rating": 4.5,
+    
+    "performance": {
+      "projection": 3,
+      "longevity": 3,
+      "day_use": 5,
+      "night_use": 3
+    },
+    
+    "description": "",
+
+    "accords": [
+    "fresh",
+    "citrus",
+    "aromatic",
+    "musky"
+    ],
+
+    "notes": {
+      "top": ["grapefruit", "bergamot", "pink pepper"],
+      "middle": ["lavender", "cardamom", "aquatic notes"],
+      "base": ["white musk", "cashmere wood", "oakmoss"]
+    },
+
+    "in_stock": true,
+    "featured": false
+  },
+
+{
+    "id": "prada-lhomme",
+    "slug": "prada-lhomme",
+    "name": "L'Homme",
+    "brand": "prada",
+    "season": "summer",
+
+    "price": 999.99,
+    "currency": "BRL",
+    "main_image": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.39029.avif",
+    "images": [],
+    "volume": "100ml",
+    "family": "fresh-floral",
+
+    "rating": 4.7,
+    
+    "performance": {
+      "projection": 3,
+      "longevity": 4,
+      "day_use": 5,
+      "night_use": 3
+    },
+    
+    "description": "",
+
+    "accords": [
+    "fresh",
+    "floral",
+    "powdery",
+    "woody"
+    ],
+
+    "notes": {
+      "top": ["neroli", "black pepper", "cardamom"],
+      "middle": ["iris", "violet", "geranium"],
+      "base": ["amber", "cedar", "patchouli"]
+    },
+
+    "in_stock": true,
+    "featured": false
+  },
+
+{
+  "id": "roja-parfums-elysium-cologne",
+  "slug": "roja-parfums-elysium-cologne",
+  "name": "Elysium Cologne",
+  "brand": "roja parfums",
+  "season": "summer",
+
+  "price": 2499.99,
+  "currency": "BRL",
+  "main_image": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.46296.avif",
+  "images": [],
+  "volume": "100ml",
+  "family": "citrus-aromatic",
+
+  "rating": 4.8,
+
+  "performance": {
+    "projection": 3,
+    "longevity": 3,
+    "day_use": 5,
+    "night_use": 3
+  },
+
+  "description": "",
+
+  "accords": [
+    "citrus",
+    "fresh",
+    "aromatic",
+    "woody"
+  ],
+
+  "notes": {
+    "top": ["lemon", "bergamot", "grapefruit"],
+    "middle": ["juniper", "apple", "pink pepper"],
+    "base": ["vetiver", "ambergris", "leather"]
+  },
+
+  "in_stock": true,
+  "featured": false
+  },
+
+{
+    "id": "xerjoff-torino21",
+    "slug": "xerjoff-torino21",
+    "name": "Torino21",
+    "brand": "xerjoff",
+    "season": "summer",
+
+    "price": 2299.99,
+    "currency": "BRL",
+    "main_image": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.70424.avif",
+    "images": [],
+    "volume": "100ml",
+    "family": "fresh-aromatic",
+
+    "rating": 4.8,
+    
+    "performance": {
+      "projection": 5,
+      "longevity": 5,
+      "day_use": 4,
+      "night_use": 3
+    },
+    
+    "description": "",
+
+    "accords": [
+    "green",
+    "citrus",
+    "aromatic",
+    "fresh"
+    ],
+
+    "notes": {
+      "top": ["lemon", "mint", "basil"],
+      "middle": ["blackcurrant", "lavender", "jasmine"],
+      "base": ["musk", "verbena"]
+    },
+
+    "in_stock": true,
+    "featured": false
+  },
+
+{
+    "id": "nishane-hacivat",
+    "slug": "nishane-hacivat",
+    "name": "Hacivat",
+    "brand": "nishane",
+    "season": "summer",
+
+    "price": 2199.99,
+    "currency": "BRL",
+    "main_image": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.44174.avif",
+    "images": [],
+    "volume": "100ml",
+    "family": "citrus-woody",
+
+    "rating": 4.8,
+    
+    "performance": {
+      "projection": 5,
+      "longevity": 5,
+      "day_use": 5,
+      "night_use": 3
+    },
+    
+    "description": "",
+
+    "accords": [
+    "citrus",
+    "woody",
+    "fruity",
+    "mossy"
+    ],
+
+    "notes": {
+      "top": ["pineapple", "bergamot", "grapefruit"],
+      "middle": ["jasmine", "cedar", "patchouli"],
+      "base": ["oakmoss", "woody notes", "tropical"]
+    },
+
+    "in_stock": true,
+    "featured": false
+  }
+]

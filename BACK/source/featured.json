@@ -1,0 +1,208 @@
+[
+  
+{
+    "id": "xerjoff-naxos",
+    "slug": "xerjoff-naxos",
+    "name": "Naxos",
+    "brand": "xerjoff",
+    "season": "winter",
+
+    "price": 2399.99,
+    "currency": "BRL",
+    "main_image": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.30529.2x.avif",
+    "images": [],
+    "volume": "100ml",
+    "family": "sweet-tobacco",
+
+    "rating": 4.9,
+    "performance": {
+      "projection": 5,
+      "longevity": 5,
+      "day_use": 3,
+      "night_use": 5
+    },
+
+    "description": "",
+
+    "accords": [
+      "tobacco",
+      "honey",
+      "sweet",
+      "vanilla"
+    ],
+
+    "notes": {
+      "top": [ "bergamot", "lemon", "lavender"],
+      "middle": [ "honey", "cinnamon", "cashmere"],
+      "base": [ "tobacco", "vanilla", "tonka bean"]
+
+    },
+    "in_stock": true,
+    "featured": true
+  },
+  
+{
+    "id": "creed-green-irish-tweed",
+    "slug": "creed-green-irish-tweed",
+    "name": "Green Irish Tweed",
+    "brand": "creed",
+    "season": "spring",
+
+    "price": 2599.99,
+    "currency": "BRL",
+    "main_image": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.474.2x.avif",
+    "images": [],
+    "volume": "100ml",
+    "family": "green-aromatic",
+
+    "rating": 4.9,
+    "performance": {
+      "projection": 4,
+      "longevity": 4,
+      "day_use": 5,
+      "night_use": 3
+    },
+
+    "description": "",
+
+    "accords": [
+      "green",
+      "fresh",
+      "aromatic",
+      "woody"
+    ],
+
+    "notes": {
+      "top": [ "lemon verbena", "peppermint"],
+      "middle": [ "violet leaf"],
+      "base": [ "sandalwood", "ambergris"]
+    },
+
+    "in_stock": true,
+    "featured": true
+  },
+
+{
+    "id": "bleu-de-chanel-eau-de-parfum",
+    "slug": "bleu-de-chanel-eau-de-parfum",
+    "name": "Bleu de Chanel Eau de Parfum",
+    "brand": "chanel",
+    "season": "summer",
+
+    "price": 1399.99,
+    "currency": "BRL",
+    "main_image": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.25967.2x.avif",
+    "images": [],
+    "volume": "100ml",
+    "family": "woody-aromatic",
+
+    "rating": 4.8,
+    "performance": {
+      "projection": 4,
+      "longevity": 4,
+      "day_use": 5,
+      "night_use": 5
+    },
+
+    "description": "",
+
+    "accords": [
+      "citrus",
+      "woody",
+      "aromatic",
+      "amber"
+    ],
+
+    "notes": {
+      "top": [ "lemon", "mint", "mandarin"],
+      "middle": [ "ginger", "jasmine", "nutmeg"],
+      "base": ["cedar", "sandalwood", "amber"]
+    },
+
+    "in_stock": true,
+    "featured": true
+  },
+
+{
+    "id": "parfums-de-marly-layton",
+    "slug": "parfums-de-marly-layton",
+    "name": "Layton",
+    "brand": "parfums de marly",
+    "season": "fall",
+
+    "price": 2299.99,
+    "currency": "BRL",
+    "main_image": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.39314.avif",
+    "images": [],
+    "volume": "125ml",
+    "family": "sweet-spicy",
+
+    "rating": 4.9,
+    
+    "performance": {
+      "projection": 5,
+      "longevity": 5,
+      "day_use": 4,
+      "night_use": 5
+    },
+    
+    "description": "",
+
+    "accords": [
+    "sweet",
+    "vanilla",
+    "spicy",
+    "woody"
+    ],
+
+    "notes": {
+      "top": ["apple", "lavender", "bergamot"],
+      "middle": ["jasmine", "violet", "geranium"],
+      "base": ["vanilla", "pepper", "sandalwood"]
+    },
+
+    "in_stock": true,
+    "featured": true
+  },
+
+{
+    "id": "versace-eros",
+    "slug": "versace-eros",
+    "name": "Eros",
+    "brand": "versace",
+    "season": "winter",
+
+    "price": 699.99,
+    "currency": "BRL",
+    "main_image": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.16657.2x.avif",
+    "images": [],
+    "volume": "100ml",
+    "family": "aromatic-fougere",
+
+    "rating": 4.9,
+    "performance": {
+      "projection": 5,
+      "longevity": 5,
+      "day_use": 3,
+      "night_use": 5
+    },
+
+    "description": "",
+
+    "accords": [
+      "vanilla", 
+      "mint", 
+      "green", 
+      "amber"
+    ],
+
+    "notes": {
+      "top": ["mint", "green apple", "lemon"],
+      "middle": ["tonka bean", "ambroxan", "geranium"],
+      "base": ["vanilla", "cedar", "oakmoss"]
+    },
+
+    "in_stock": true,
+    "featured": true
+  }
+]

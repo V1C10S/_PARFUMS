@@ -1,0 +1,506 @@
+[
+
+{
+    "id": "scandal-pour-homme",
+    "slug": "scandal-pour-homme",
+    "name": "Scandal Pour Homme",
+    "brand": "jean paul gaultier",
+    "season": "fall",
+
+    "price": 899.99,
+    "currency": "BRL",
+    "main_image": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.68074.avif",
+    "images": [],
+    "volume": "100ml",
+    "family": "sweet-spicy",
+
+    "rating": 4.7,
+    
+    "performance": {
+      "projection": 4,
+      "longevity": 5,
+      "day_use": 3,
+      "night_use": 5
+    },
+    
+    "description": "",
+
+    "accords": [
+    "sweet",
+    "caramel",
+    "spicy",
+    "amber"
+    ],
+
+    "notes": {
+      "top": ["clary sage", "mandarin"],
+      "middle": ["caramel", "tonka bean"],
+      "base": ["vetiver"]
+    },
+
+    "in_stock": true,
+    "featured": false
+  },
+
+{
+    "id": "eros-najim",
+    "slug": "eros-najim",
+    "name": "Eros Najim",
+    "brand": "versace",
+    "season": "fall",
+
+    "price": 1099.99,
+    "currency": "BRL",
+    "main_image": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.99116.avif",
+    "images": [],
+    "volume": "100ml",
+    "family": "amber-sweet",
+
+    "rating": 4.6,
+    
+    "performance": {
+      "projection": 4,
+      "longevity": 4,
+      "day_use": 3,
+      "night_use": 5
+    },
+    
+    "description": "",
+
+    "accords": [
+    "sweet",
+    "amber",
+    "spicy",
+    "vanilla"
+    ],
+
+    "notes": {
+      "top": ["mandarin", "pepper"],
+      "middle": ["lavender", "geranium"],
+      "base": ["vanilla", "amber", "tonka bean"]
+    },
+
+    "in_stock": true,
+    "featured": false
+  },
+
+{
+    "id": "habit-rouge-parfum",
+    "slug": "habit-rouge-parfum",
+    "name": "Habit Rouge Parfum",
+    "brand": "guerlain",
+    "season": "fall",
+
+    "price": 1199.99,
+    "currency": "BRL",
+    "main_image": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.90802.avif",
+    "images": [],
+    "volume": "100ml",
+    "family": "amber-citrus",
+
+    "rating": 4.7,
+    
+    "performance": {
+      "projection": 3,
+      "longevity": 4,
+      "day_use": 4,
+      "night_use": 4
+    },
+    
+    "description": "",
+
+    "accords": [
+    "citrus",
+    "amber",
+    "vanilla",
+    "woody"
+    ],
+
+    "notes": {
+      "top": ["lemon", "orange"],
+      "middle": ["jasmine", "rose"],
+      "base": ["vanilla", "leather", "patchouli"]
+    },
+
+    "in_stock": true,
+    "featured": false
+  },
+
+{
+    "id": "boss-the-scent-absolute",
+    "slug": "boss-the-scent-absolute",
+    "name": "Boss The Scent Absolute",
+    "brand": "hugo boss",
+    "season": "fall",
+
+    "price": 899.99,
+    "currency": "BRL",
+    "main_image": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.56295.avif",
+    "images": [],
+    "volume": "100ml",
+    "family": "amber-spicy",
+
+    "rating": 4.5,
+    
+    "performance": {
+      "projection": 3,
+      "longevity": 4,
+      "day_use": 3,
+      "night_use": 5
+    },
+    
+    "description": "",
+
+    "accords": [
+    "spicy",
+    "sweet",
+    "amber",
+    "warm"
+    ],
+
+    "notes": {
+      "top": ["ginger"],
+      "middle": ["maninka fruit"],
+      "base": ["vetiver"]
+    },
+
+    "in_stock": true,
+    "featured": false
+  },
+
+{
+    "id": "spicebomb-extreme",
+    "slug": "spicebomb-extreme",
+    "name": "Spicebomb Extreme",
+    "brand": "viktor & rolf",
+    "season": "fall",
+
+    "price": 1099.99,
+    "currency": "BRL",
+    "main_image": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.30499.2x.avif",
+    "images": [],
+    "volume": "90ml",
+    "family": "spicy-amber",
+
+    "rating": 4.8,
+    
+    "performance": {
+      "projection": 5,
+      "longevity": 5,
+      "day_use": 3,
+      "night_use": 5
+    },
+    
+    "description": "",
+
+    "accords": [
+    "spicy",
+    "vanilla",
+    "tobacco",
+    "sweet"
+    ],
+
+    "notes": {
+      "top": ["pepper", "lavender"],
+      "middle": ["cinnamon", "cumin"],
+      "base": ["tobacco", "vanilla"]
+    },
+
+    "in_stock": true,
+    "featured": false
+  },
+
+{
+    "id": "stronger-with-you-absolutely",
+    "slug": "stronger-with-you-absolutely",
+    "name": "Stronger With You Absolutely",
+    "brand": "armani",
+    "season": "fall",
+
+    "price": 999.99,
+    "currency": "BRL",
+    "main_image": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.64501.avif",
+    "images": [],
+    "volume": "100ml",
+    "family": "sweet-amber",
+
+    "rating": 4.8,
+    
+    "performance": {
+      "projection": 4,
+      "longevity": 5,
+      "day_use": 3,
+      "night_use": 5
+    },
+    
+    "description": "",
+
+    "accords": [
+    "sweet",
+    "vanilla",
+    "amber",
+    "boozy"
+    ],
+
+    "notes": {
+      "top": ["rum", "bergamot"],
+      "middle": ["lavender", "davana"],
+      "base": ["vanilla", "chestnut", "cedar"]
+    },
+
+    "in_stock": true,
+    "featured": false
+  },
+
+{
+    "id": "prada-luna-rossa-black",
+    "slug": "prada-luna-rossa-black",
+    "name": "Luna Rossa Black",
+    "brand": "prada",
+    "season": "fall",
+
+    "price": 949.99,
+    "currency": "BRL",
+    "main_image": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.48682.avif",
+    "images": [],
+    "volume": "100ml",
+    "family": "amber-sweet",
+
+    "rating": 4.7,
+    
+    "performance": {
+      "projection": 3,
+      "longevity": 4,
+      "day_use": 3,
+      "night_use": 5
+    },
+    
+    "description": "",
+
+    "accords": [
+    "amber",
+    "sweet",
+    "powdery",
+    "woody"
+    ],
+
+    "notes": {
+      "top": ["bergamot", "angelica"],
+      "middle": ["patchouli", "coumarin"],
+      "base": ["amber", "musk"]
+    },
+
+    "in_stock": true,
+    "featured": false
+  },
+
+{
+    "id": "givenchy-gentleman-reserve-privee",
+    "slug": "givenchy-gentleman-reserve-privee",
+    "name": "Gentleman Reserve Privée",
+    "brand": "givenchy",
+    "season": "fall",
+
+    "price": 1099.99,
+    "currency": "BRL",
+    "main_image": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.71272.avif",
+    "images": [],
+    "volume": "100ml",
+    "family": "amber-woody",
+
+    "rating": 4.8,
+    
+    "performance": {
+      "projection": 4,
+      "longevity": 4,
+      "day_use": 3,
+      "night_use": 5
+    },
+    
+    "description": "",
+
+    "accords": [
+    "woody",
+    "boozy",
+    "sweet",
+    "amber"
+    ],
+
+    "notes": {
+      "top": ["bergamot"],
+      "middle": ["iris", "chestnut"],
+      "base": ["whiskey", "amber", "wood"]
+    },
+
+    "in_stock": true,
+    "featured": false
+  },
+
+{
+    "id": "valentino-uomo-intense",
+    "slug": "valentino-uomo-intense",
+    "name": "Uomo Intense",
+    "brand": "valentino",
+    "season": "fall",
+
+    "price": 1099.99,
+    "currency": "BRL",
+    "main_image": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.75094.avif",
+    "images": [],
+    "volume": "100ml",
+    "family": "sweet-leather",
+
+    "rating": 4.7,
+    
+    "performance": {
+      "projection": 3,
+      "longevity": 4,
+      "day_use": 3,
+      "night_use": 5
+    },
+    
+    "description": "",
+
+    "accords": [
+    "leather",
+    "sweet",
+    "powdery",
+    "vanilla"
+    ],
+
+    "notes": {
+      "top": ["mandarin", "clary sage"],
+      "middle": ["iris", "tonka bean"],
+      "base": ["leather", "vanilla"]
+    },
+
+    "in_stock": true,
+    "featured": false
+  },
+
+{
+    "id": "bvlgari-man-in-black",
+    "slug": "bvlgari-man-in-black",
+    "name": "Man in Black",
+    "brand": "bvlgari",
+    "season": "fall",
+
+    "price": 999.99,
+    "currency": "BRL",
+    "main_image": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.26358.avif",
+    "images": [],
+    "volume": "100ml",
+    "family": "spicy-amber",
+
+    "rating": 4.7,
+    
+    "performance": {
+      "projection": 4,
+      "longevity": 4,
+      "day_use": 3,
+      "night_use": 5
+    },
+    
+    "description": "",
+
+    "accords": [
+    "spicy",
+    "rum",
+    "amber",
+    "leather"
+    ],
+
+    "notes": {
+      "top": ["rum", "spices"],
+      "middle": ["tuberose", "iris"],
+      "base": ["benzoin", "tonka bean", "guaiac wood"]
+    },
+
+    "in_stock": true,
+    "featured": false
+  },
+
+{
+    "id": "tom-ford-noir-extreme",
+    "slug": "tom-ford-noir-extreme",
+    "name": "Tom Ford Noir Extreme",
+    "brand": "tom ford",
+    "season": "fall",
+
+    "price": 1899.99,
+    "currency": "BRL",
+    "main_image": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.29675.avif",
+    "images": [],
+    "volume": "100ml",
+    "family": "sweet-spicy",
+
+    "rating": 4.8,
+    
+    "performance": {
+      "projection": 4,
+      "longevity": 4,
+      "day_use": 3,
+      "night_use": 5
+    },
+    
+    "description": "",
+
+    "accords": [
+    "sweet",
+    "spicy",
+    "vanilla",
+    "amber"
+    ],
+
+    "notes": {
+      "top": ["cardamom", "nutmeg", "saffron"],
+      "middle": ["kulfi", "rose", "jasmine"],
+      "base": ["vanilla", "amber", "sandalwood"]
+    },
+
+    "in_stock": true,
+    "featured": false
+  },
+
+{
+    "id": "parfums-de-marly-layton",
+    "slug": "parfums-de-marly-layton",
+    "name": "Layton",
+    "brand": "parfums de marly",
+    "season": "fall",
+
+    "price": 2299.99,
+    "currency": "BRL",
+    "main_image": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.39314.avif",
+    "images": [],
+    "volume": "125ml",
+    "family": "sweet-spicy",
+
+    "rating": 4.9,
+    
+    "performance": {
+      "projection": 5,
+      "longevity": 5,
+      "day_use": 4,
+      "night_use": 5
+    },
+    
+    "description": "",
+
+    "accords": [
+    "sweet",
+    "vanilla",
+    "spicy",
+    "woody"
+    ],
+
+    "notes": {
+      "top": ["apple", "lavender", "bergamot"],
+      "middle": ["jasmine", "violet", "geranium"],
+      "base": ["vanilla", "pepper", "sandalwood"]
+    },
+
+    "in_stock": true,
+    "featured": true
+  }
+]

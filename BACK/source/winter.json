@@ -1,0 +1,505 @@
+[
+
+{
+    "id": "xerjoff-naxos",
+    "slug": "xerjoff-naxos",
+    "name": "Naxos",
+    "brand": "xerjoff",
+    "season": "winter",
+
+    "price": 2399.99,
+    "currency": "BRL",
+    "main_image": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.30529.2x.avif",
+    "images": [],
+    "volume": "100ml",
+    "family": "sweet-tobacco",
+
+    "rating": 4.9,
+    
+    "performance": {
+      "projection": 5,
+      "longevity": 5,
+      "day_use": 3,
+      "night_use": 5
+    },
+    
+    "description": "",
+
+    "accords": [
+    "tobacco",
+    "honey",
+    "sweet",
+    "vanilla"
+    ],
+
+    "notes": {
+      "top": ["bergamot", "lemon", "lavender"],
+      "middle": ["honey", "cinnamon", "cashmere"],
+      "base": ["tobacco", "vanilla", "tonka bean"]
+    },
+
+    "in_stock": true,
+    "featured": true
+  },
+
+{
+    "id": "tom-ford-tobacco-vanille",
+    "slug": "tom-ford-tobacco-vanille",
+    "name": "Tobacco Vanille",
+    "brand": "tom ford",
+    "season": "winter",
+
+    "price": 2899.99,
+    "currency": "BRL",
+    "main_image": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.1825.2x.avif",
+    "images": [],
+    "volume": "100ml",
+    "family": "tobacco-sweet",
+
+    "rating": 4.8,
+    
+    "performance": {
+      "projection": 5,
+      "longevity": 5,
+      "day_use": 3,
+      "night_use": 5
+    },
+    
+    "description": "",
+
+    "accords": [
+    "tobacco",
+    "vanilla",
+    "sweet",
+    "spicy"
+    ],
+
+    "notes": {
+      "top": ["tobacco leaf", "spices"],
+      "middle": ["tonka bean", "cacao", "vanilla"],
+      "base": ["dried fruits", "woody notes"]
+    },
+
+    "in_stock": true,
+    "featured": false
+  },
+  
+{
+    "id": "initio-side-effect",
+    "slug": "initio-side-effect",
+    "name": "Side Effect",
+    "brand": "initio",
+    "season": "winter",
+
+    "price": 2699.99,
+    "currency": "BRL",
+    "main_image": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.42260.2x.avif",
+    "images": [],
+    "volume": "90ml",
+    "family": "boozy-sweet",
+
+    "rating": 4.8,
+    
+    "performance": {
+      "projection": 5,
+      "longevity": 5,
+      "day_use": 3,
+      "night_use": 5
+    },
+    
+    "description": "",
+
+    "accords": [
+    "rum",
+    "sweet",
+    "tobacco",
+    "vanilla"
+    ],
+
+    "notes": {
+      "top": ["rum"],
+      "middle": ["tobacco", "cinnamon"],
+      "base": ["vanilla", "sandalwood"]
+    },
+
+    "in_stock": true,
+    "featured": false
+  },
+
+{
+    "id": "parfums-de-marly-herod",
+    "slug": "parfums-de-marly-herod",
+    "name": "Herod",
+    "brand": "parfums de marly",
+    "season": "winter",
+
+    "price": 2399.99,
+    "currency": "BRL",
+    "main_image": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.16939.2x.avif",
+    "images": [],
+    "volume": "125ml",
+    "family": "tobacco-vanilla",
+
+    "rating": 4.8,
+    
+    "performance": {
+      "projection": 4,
+      "longevity": 5,
+      "day_use": 3,
+      "night_use": 5
+    },
+    
+    "description": "",
+
+    "accords": [
+    "tobacco",
+    "vanilla",
+    "spicy",
+    "sweet"
+    ],
+
+    "notes": {
+      "top": ["cinnamon", "pepper"],
+      "middle": ["tobacco leaf", "incense"],
+      "base": ["vanilla", "cedar", "musk"]
+    },
+
+    "in_stock": true,
+    "featured": false
+  },
+
+{
+    "id": "Angels-Share-By-Kilian",
+    "slug": "Angels-Share-By-Kilian",
+    "name": "Angels' Share",
+    "brand": "By Kilian",
+    "season": "winter",
+
+    "price": 1850.00,
+    "currency": "BRL",
+    "main_image": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.62615.2x.avif",
+    "images": [],
+    "volume": "50ml",
+    "family": "amber-vanilla",
+
+    "rating": 4.7,
+    
+    "performance": {
+    "projection": 5,
+    "longevity": 4,
+    "day_use": 2,
+    "night_use": 5
+    },
+    
+    "description": "Uma homenagem à herança da família Hennessy, combinando a essência do conhaque com notas de carvalho, canela e fava tonka.",
+
+    "accords": [
+    "cognac",
+    "cinnamon",
+    "warm spicy",
+    "sweet"
+    ],
+
+    "notes": {
+    "top": ["cognac"],
+    "middle": ["cinnamon", "oak", "tonka bean"],
+    "base": ["vanilla", "praline", "sandalwood"]
+    },
+
+    "in_stock": true,
+    "featured": false
+    },
+
+{
+    "id": "dior-homme-intense",
+    "slug": "dior-homme-intense",
+    "name": "Homme Intense",
+    "brand": "dior",
+    "season": "winter",
+
+    "price": 1199.99,
+    "currency": "BRL",
+    "main_image": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.101596.2x.avif",
+    "images": [],
+    "volume": "100ml",
+    "family": "powdery-woody",
+
+    "rating": 4.8,
+    
+    "performance": {
+      "projection": 4,
+      "longevity": 5,
+      "day_use": 3,
+      "night_use": 5
+    },
+    
+    "description": "",
+
+    "accords": [
+    "powdery",
+    "iris",
+    "woody",
+    "sweet"
+    ],
+
+    "notes": {
+      "top": ["lavender"],
+      "middle": ["iris", "ambrette"],
+      "base": ["vetiver", "cedar"]
+    },
+
+    "in_stock": true,
+    "featured": false
+  },
+
+{
+    "id": "jean-paul-gaultier-le-male-le-parfum",
+    "slug": "jean-paul-gaultier-le-male-le-parfum",
+    "name": "Le Male Le Parfum",
+    "brand": "jean paul gaultier",
+    "season": "winter",
+
+    "price": 999.99,
+    "currency": "BRL",
+    "main_image": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.61856.2x.avif",
+    "images": [],
+    "volume": "125ml",
+    "family": "vanilla-spicy",
+
+    "rating": 4.8,
+    
+    "performance": {
+      "projection": 4,
+      "longevity": 5,
+      "day_use": 3,
+      "night_use": 5
+    },
+    
+    "description": "",
+
+    "accords": [
+    "vanilla",
+    "spicy",
+    "sweet",
+    "amber"
+    ],
+
+    "notes": {
+      "top": ["cardamom"],
+      "middle": ["lavender", "iris"],
+      "base": ["vanilla", "oriental notes"]
+    },
+
+    "in_stock": true,
+    "featured": false
+  },
+
+{
+    "id": "armani-stronger-with-you-intensely",
+    "slug": "armani-stronger-with-you-intensely",
+    "name": "Stronger With You Intensely",
+    "brand": "armani",
+    "season": "winter",
+
+    "price": 999.99,
+    "currency": "BRL",
+    "main_image": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.52802.2x.avif",
+    "images": [],
+    "volume": "100ml",
+    "family": "sweet-amber",
+
+    "rating": 4.8,
+    
+    "performance": {
+      "projection": 4,
+      "longevity": 5,
+      "day_use": 3,
+      "night_use": 5
+    },
+    
+    "description": "",
+
+    "accords": [
+    "sweet",
+    "vanilla",
+    "amber",
+    "spicy"
+    ],
+
+    "notes": {
+      "top": ["pink pepper", "juniper"],
+      "middle": ["lavender", "toffee"],
+      "base": ["vanilla", "amber", "tonka bean"]
+    },
+
+    "in_stock": true,
+    "featured": false
+  },
+
+{
+    "id": "azzaro-the-most-wanted-parfum",
+    "slug": "azzaro-the-most-wanted-parfum",
+    "name": "The Most Wanted Parfum",
+    "brand": "azzaro",
+    "season": "winter",
+
+    "price": 999.99,
+    "currency": "BRL",
+    "main_image": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.73664.2x.avif",
+    "images": [],
+    "volume": "100ml",
+    "family": "sweet-spicy",
+
+    "rating": 4.7,
+    
+    "performance": {
+      "projection": 4,
+      "longevity": 5,
+      "day_use": 3,
+      "night_use": 5
+    },
+    
+    "description": "",
+
+    "accords": [
+    "sweet",
+    "spicy",
+    "amber"
+    ],
+
+    "notes": {
+      "top": ["ginger"],
+      "middle": ["woody notes"],
+      "base": ["vanilla"]
+    },
+
+    "in_stock": true,
+    "featured": false
+  },
+
+{
+    "id": "amouage-interlude-man",
+    "slug": "amouage-interlude-man",
+    "name": "Interlude Man",
+    "brand": "amouage",
+    "season": "winter",
+
+    "price": 2699.99,
+    "currency": "BRL",
+    "main_image": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.15294.2x.avif",
+    "images": [],
+    "volume": "100ml",
+    "family": "smoky-amber",
+
+    "rating": 4.9,
+    
+    "performance": {
+      "projection": 5,
+      "longevity": 5,
+      "day_use": 3,
+      "night_use": 5
+    },
+    
+    "description": "",
+
+    "accords": [
+    "smoky",
+    "amber",
+    "spicy",
+    "oud"
+    ],
+
+    "notes": {
+      "top": ["oregano", "bergamot"],
+      "middle": ["incense", "amber"],
+      "base": ["oud", "leather", "patchouli"]
+    },
+
+    "in_stock": true,
+    "featured": false
+  },
+
+{
+    "id": "kalemat-arabian-oud",
+    "slug": "kalemat-arabian-oud",
+    "name": "Kalemat",
+    "brand": "arabian oud",
+    "season": "winter",
+
+    "price": 1599.99,
+    "currency": "BRL",
+    "main_image": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.21623.2x.avif",
+    "images": [],
+    "volume": "100ml",
+    "family": "amber-sweet",
+
+    "rating": 4.7,
+    
+    "performance": {
+      "projection": 4,
+      "longevity": 5,
+      "day_use": 3,
+      "night_use": 5
+    },
+    
+    "description": "",
+
+    "accords": [
+    "amber",
+    "sweet",
+    "honey",
+    "woody"
+    ],
+
+    "notes": {
+      "top": ["blueberry", "anise"],
+      "middle": ["honey", "cashmere wood"],
+      "base": ["amber", "musk"]
+    },
+
+    "in_stock": true,
+    "featured": false
+  },
+
+{
+    "id": "maahir-black-edition",
+    "slug": "maahir-black-edition",
+    "name": "Maahir Black Edition",
+    "brand": "lattafa",
+    "season": "winter",
+
+    "price": 499.99,
+    "currency": "BRL",
+    "main_image": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.66564.2x.avif",
+    "images": [],
+    "volume": "100ml",
+    "family": "oud-amber",
+
+    "rating": 4.5,
+    
+    "performance": {
+      "projection": 4,
+      "longevity": 4,
+      "day_use": 3,
+      "night_use": 5
+    },
+    
+    "description": "",
+
+    "accords": [
+    "oud",
+    "smoky",
+    "amber",
+    "spicy"
+    ],
+
+    "notes": {
+      "top": ["saffron", "black pepper"],
+      "middle": ["rose", "labdanum"],
+      "base": ["oud", "amber", "patchouli"]
+    },
+
+    "in_stock": true,
+    "featured": false
+  }
+]
