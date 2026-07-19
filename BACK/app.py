@@ -1,37 +1,42 @@
 import os
 
-from flask import Flask
-from flask_cors import CORS
+from fastapi import FastAPI
+from fastapi.middleware.cors import CORSMiddleware
 
-# ===== IMPORTS ===== 
+from routes.fall import fall_router
+from routes.featured import featured_router
+from routes.spring import spring_router
+from routes.summer import summer_router
+from routes.winter import winter_router
 
-from routes.home import home_bp
-from routes.summer import summer_bp
-from routes.winter import winter_bp
-from routes.spring import spring_bp
-from routes.fall import fall_bp
+app = FastAPI(
+    title="Parfums API",
+    description="API de catálogos e CRUD de perfumes por estação.",
+    version="1.0.0",
+)
 
-# ===== CORS =====
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["http://localhost:3000"],
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
 
-app = Flask(__name__)
-CORS(app)
+app.include_router(featured_router)
+app.include_router(spring_router)
+app.include_router(summer_router)
+app.include_router(fall_router)
+app.include_router(winter_router)
 
-# ===== BLUEPRINTS =====
 
-app.register_blueprint(home_bp)
-app.register_blueprint(summer_bp)
-app.register_blueprint(winter_bp)
-app.register_blueprint(spring_bp)
-app.register_blueprint(fall_bp)
+@app.get("/")
+def back_status() -> dict[str, str]:
+    return {"status": "A TODO VAPOR"}
 
-# --- CHECKING ---
 
-@app.route("/")
-def back_status():
-    return "A TODO VAPOR"
-
-# --- PORTA BACK ---
-    
 if __name__ == "__main__":
+    import uvicorn
+
     port = int(os.environ.get("PORT", 5500))
-    app.run(host="0.0.0.0", port=port, debug=False)
+    uvicorn.run(app, host="0.0.0.0", port=port)
