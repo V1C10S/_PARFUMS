@@ -10,7 +10,6 @@ from routes.summer import summer_bp
 from routes.winter import winter_bp
 from routes.spring import spring_bp
 from routes.fall import fall_bp
-from routes.id import id_bp
 
 # ===== CORS =====
 
@@ -24,7 +23,6 @@ app.register_blueprint(summer_bp)
 app.register_blueprint(winter_bp)
 app.register_blueprint(spring_bp)
 app.register_blueprint(fall_bp)
-app.register_blueprint(id_bp)
 
 # --- CHECKING ---
 
